@@ -29,7 +29,7 @@ const usuariosMOAB = {
 };
 
 const LINK_MOAB =
-"https://moabhemobras-bot.github.io/monitoramento_ambiental/";
+"https://moabhemobras-bot.github.io/monitoramento-ambiental/";
 
 
 function abrirLoginMOAB(){
